@@ -14,6 +14,14 @@
 		9260095520EA00C5008D3E49 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9260095320EA00C5008D3E49 /* LaunchScreen.storyboard */; };
 		9260096020EA00C6008D3E49 /* PreventVideoiOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9260095F20EA00C6008D3E49 /* PreventVideoiOSTests.swift */; };
 		9260096B20EA00C6008D3E49 /* PreventVideoiOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9260096A20EA00C6008D3E49 /* PreventVideoiOSUITests.swift */; };
+		9260097920EA0369008D3E49 /* cloth.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9260097820EA0369008D3E49 /* cloth.mp4 */; };
+		9260097B20EA0375008D3E49 /* hotiki.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9260097A20EA0374008D3E49 /* hotiki.mp4 */; };
+		9260097D20EA0381008D3E49 /* outlet.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9260097C20EA0381008D3E49 /* outlet.mp4 */; };
+		9260097F20EA038B008D3E49 /* oxy_tobacco.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9260097E20EA038B008D3E49 /* oxy_tobacco.mp4 */; };
+		9260098120EA0399008D3E49 /* room.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9260098020EA0399008D3E49 /* room.mp4 */; };
+		9260098320EA03AC008D3E49 /* stove.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9260098220EA03AC008D3E49 /* stove.mp4 */; };
+		9260098520EA03BC008D3E49 /* tempura.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9260098420EA03BC008D3E49 /* tempura.mp4 */; };
+		9260098720EA03C6008D3E49 /* tobacco.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9260098620EA03C6008D3E49 /* tobacco.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +55,14 @@
 		9260096620EA00C6008D3E49 /* PreventVideoiOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PreventVideoiOSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9260096A20EA00C6008D3E49 /* PreventVideoiOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreventVideoiOSUITests.swift; sourceTree = "<group>"; };
 		9260096C20EA00C6008D3E49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9260097820EA0369008D3E49 /* cloth.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = cloth.mp4; sourceTree = "<group>"; };
+		9260097A20EA0374008D3E49 /* hotiki.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = hotiki.mp4; sourceTree = "<group>"; };
+		9260097C20EA0381008D3E49 /* outlet.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = outlet.mp4; sourceTree = "<group>"; };
+		9260097E20EA038B008D3E49 /* oxy_tobacco.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = oxy_tobacco.mp4; sourceTree = "<group>"; };
+		9260098020EA0399008D3E49 /* room.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = room.mp4; sourceTree = "<group>"; };
+		9260098220EA03AC008D3E49 /* stove.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = stove.mp4; sourceTree = "<group>"; };
+		9260098420EA03BC008D3E49 /* tempura.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = tempura.mp4; sourceTree = "<group>"; };
+		9260098620EA03C6008D3E49 /* tobacco.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = tobacco.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +115,14 @@
 			children = (
 				9260094A20EA00C3008D3E49 /* AppDelegate.swift */,
 				9260094C20EA00C3008D3E49 /* ViewController.swift */,
+				9260097C20EA0381008D3E49 /* outlet.mp4 */,
+				9260098220EA03AC008D3E49 /* stove.mp4 */,
+				9260098620EA03C6008D3E49 /* tobacco.mp4 */,
+				9260097820EA0369008D3E49 /* cloth.mp4 */,
+				9260097A20EA0374008D3E49 /* hotiki.mp4 */,
+				9260098020EA0399008D3E49 /* room.mp4 */,
+				9260098420EA03BC008D3E49 /* tempura.mp4 */,
+				9260097E20EA038B008D3E49 /* oxy_tobacco.mp4 */,
 				9260094E20EA00C3008D3E49 /* Main.storyboard */,
 				9260095120EA00C5008D3E49 /* Assets.xcassets */,
 				9260095320EA00C5008D3E49 /* LaunchScreen.storyboard */,
@@ -229,8 +253,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9260097D20EA0381008D3E49 /* outlet.mp4 in Resources */,
+				9260098320EA03AC008D3E49 /* stove.mp4 in Resources */,
 				9260095520EA00C5008D3E49 /* LaunchScreen.storyboard in Resources */,
 				9260095220EA00C5008D3E49 /* Assets.xcassets in Resources */,
+				9260097920EA0369008D3E49 /* cloth.mp4 in Resources */,
+				9260098120EA0399008D3E49 /* room.mp4 in Resources */,
+				9260097F20EA038B008D3E49 /* oxy_tobacco.mp4 in Resources */,
+				9260097B20EA0375008D3E49 /* hotiki.mp4 in Resources */,
+				9260098520EA03BC008D3E49 /* tempura.mp4 in Resources */,
+				9260098720EA03C6008D3E49 /* tobacco.mp4 in Resources */,
 				9260095020EA00C3008D3E49 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -433,6 +465,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5KN5LH8VNC;
 				INFOPLIST_FILE = PreventVideoiOS/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -451,6 +484,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5KN5LH8VNC;
 				INFOPLIST_FILE = PreventVideoiOS/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
